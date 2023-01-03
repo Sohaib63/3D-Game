@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/SDF_BasicTrainingStage/Scenes/Stage_BasicTraining.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
